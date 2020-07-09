@@ -1,410 +1,410 @@
  [
           {
-            "Name": "NeYo",
-            "Flag": ":flag_fr:",
-            "SWGOH": "<https://swgoh.gg/p/848434896/>",
-            "UTC": "17:00"
+            "name": "NeYo",
+            "emoji": ":flag_fr:",
+            "swgoh.gg": "<https://swgoh.gg/p/848434896/>",
+            "payout": "17:00"
           },
           {
-            "Name": "Anthony",
-            "Flag": ":flag_fr:",
-            "SWGOH": "<https://swgoh.gg/p/581948637/>",
-            "UTC": "16:00"
+            "name": "Anthony",
+            "emoji": ":flag_fr:",
+            "swgoh.gg": "<https://swgoh.gg/p/581948637/>",
+            "payout": "16:00"
           },
           {
-            "Name": "Barrufha",
-            "Flag": ":flag_es:",
-            "SWGOH": "<https://swgoh.gg/p/684648848/>",
-            "UTC": "21:00"
+            "name": "Barrufha",
+            "emoji": ":flag_es:",
+            "swgoh.gg": "<https://swgoh.gg/p/684648848/>",
+            "payout": "21:00"
           },
           {
-            "Name": "Launchin",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/543262699/>",
-            "UTC": "13:00"
+            "name": "Launchin",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/543262699/>",
+            "payout": "13:00"
           },
           {
-            "Name": "LordThel",
-            "Flag": ":flag_gb:",
-            "SWGOH": "<https://swgoh.gg/p/864153621/>",
-            "UTC": "14:00"
+            "name": "LordThel",
+            "emoji": ":flag_gb:",
+            "swgoh.gg": "<https://swgoh.gg/p/864153621/>",
+            "payout": "14:00"
           },
           {
-            "Name": "Quindin",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/919868797/>",
-            "UTC": "23:00"
+            "name": "Quindin",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/919868797/>",
+            "payout": "23:00"
           },
           {
-            "Name": "M'Rau",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/992662897/>",
-            "UTC": "00:00"
+            "name": "M'Rau",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/992662897/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Eyeam X'Tu",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/242564737/>",
-            "UTC": "02:00"
+            "name": "Eyeam X'Tu",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/242564737/>",
+            "payout": "02:00"
           },
           {
-            "Name": "Sying",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/786841145/>",
-            "UTC": "23:00"
+            "name": "Sying",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/786841145/>",
+            "payout": "23:00"
           },
           {
-            "Name": "Meowbacca",
-            "Flag": ":flag_ca:",
-            "SWGOH": "<https://swgoh.gg/p/886966295/>",
-            "UTC": "04:00"
+            "name": "Meowbacca",
+            "emoji": ":flag_ca:",
+            "swgoh.gg": "<https://swgoh.gg/p/886966295/>",
+            "payout": "04:00"
           },
           {
-            "Name": "Jerec",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/849932621/>",
-            "UTC": "21:00"
+            "name": "Jerec",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/849932621/>",
+            "payout": "21:00"
           },
           {
-            "Name": "Denny Crane",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/849976981/>",
+            "name": "Denny Crane",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/849976981/>",
             "UTC": "20:00"
           },
           {
-            "Name": "Minotauro",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/893692819/>",
-            "UTC": "03:00"
+            "name": "Minotauro",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/893692819/>",
+            "payout": "03:00"
           },
           {
-            "Name": "Chacatumbi",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/263474922/>",
-            "UTC": "05:00"
+            "name": "Chacatumbi",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/263474922/>",
+            "payout": "05:00"
           },
           {
-            "Name": "Mufasa",
-            "Flag": ":flag_au:",
-            "SWGOH": "<https://swgoh.gg/p/347658556/>",
-            "UTC": "20:00"
+            "name": "Mufasa",
+            "emoji": ":flag_au:",
+            "swgoh.gg": "<https://swgoh.gg/p/347658556/>",
+            "payout": "20:00"
           },
           {
-            "Name": "Roto",
-            "Flag": ":flag_jp:",
-            "SWGOH": "<https://swgoh.gg/p/923193887/>",
-            "UTC": "10:00"
+            "name": "Roto",
+            "emoji": ":flag_jp:",
+            "swgoh.gg": "<https://swgoh.gg/p/923193887/>",
+            "payout": "10:00"
           },
           {
-            "Name": "East",
-            "Flag": ":flag_jp:",
-            "SWGOH": "<https://swgoh.gg/p/824539276/>",
-            "UTC": "10:00"
+            "name": "East",
+            "emoji": ":flag_jp:",
+            "swgoh.gg": "<https://swgoh.gg/p/824539276/>",
+            "payout": "10:00"
           },
           {
-            "Name": "WAYFARER 78",
-            "Flag": ":flag_jp:",
-            "SWGOH": "<https://swgoh.gg/p/294156215/>",
-            "UTC": "10:00"
+            "name": "WAYFARER 78",
+            "emoji": ":flag_jp:",
+            "swgoh.gg": "<https://swgoh.gg/p/294156215/>",
+            "payout": "10:00"
           },
           {
-            "Name": "Leif Skywalker",
-            "Flag": ":flag_ca:",
-            "SWGOH": "<https://swgoh.gg/p/963193584/>",
-            "UTC": "06:00"
+            "name": "Leif Skywalker",
+            "emoji": ":flag_ca:",
+            "swgoh.gg": "<https://swgoh.gg/p/963193584/>",
+            "payout": "06:00"
           },
           {
-            "Name": "Podemos",
-            "Flag": ":flag_gb:",
-            "SWGOH": "<https://swgoh.gg/p/369186347/>",
-            "UTC": "19:00"
+            "name": "Podemos",
+            "emoji": ":flag_gb:",
+            "swgoh.gg": "<https://swgoh.gg/p/369186347/>",
+            "payout": "19:00"
           },
           {
-            "Name": "Scourge",
-            "Flag": ":flag_de:",
-            "SWGOH": "<https://swgoh.gg/p/657573146/>",
-            "UTC": "19:00"
+            "name": "Scourge",
+            "emoji": ":flag_de:",
+            "swgoh.gg": "<https://swgoh.gg/p/657573146/>",
+            "payout": "19:00"
           },
           {
-            "Name": "HK187",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/841888351/>",
-            "UTC": "00:00"
+            "name": "HK187",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/841888351/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Koni8",
-            "Flag": ":flag_fr:",
-            "SWGOH": "<https://swgoh.gg/p/629411385/>",
-            "UTC": "15:00"
+            "name": "Koni8",
+            "emoji": ":flag_fr:",
+            "swgoh.gg": "<https://swgoh.gg/p/629411385/>",
+            "payout": "15:00"
           },
           {
-            "Name": "ShawnOnrub",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/831231443/>",
-            "UTC": "00:00"
+            "name": "ShawnOnrub",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/831231443/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Thekillernox",
-            "Flag": ":flag_ca:",
-            "SWGOH": "<https://swgoh.gg/p/591151755/>",
-            "UTC": "01:00"
+            "name": "Thekillernox",
+            "emoji": ":flag_ca:",
+            "swgoh.gg": "<https://swgoh.gg/p/591151755/>",
+            "payout": "01:00"
           },
           {
-            "Name": "Tardis",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/243654545/>",
-            "UTC": "23:00"
+            "name": "Tardis",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/243654545/>",
+            "payout": "23:00"
           },
           {
-            "Name": "Thrise",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/811431887/>",
-            "UTC": "22:00"
+            "name": "Thrise",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/811431887/>",
+            "payout": "22:00"
           },
           {
-            "Name": "MazKanata",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/464824765/>",
-            "UTC": "00:00"
+            "name": "MazKanata",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/464824765/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Kio",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/648669529/>",
-            "UTC": "01:00"
+            "name": "Kio",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/648669529/>",
+            "payout": "01:00"
           },
           {
-            "Name": "Mingo",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/841643163/>",
-            "UTC": "01:00"
+            "name": "Mingo",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/841643163/>",
+            "payout": "01:00"
           },
           {
-            "Name": "Rockstar",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/872347119/>",
-            "UTC": "04:00"
+            "name": "Rockstar",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/872347119/>",
+            "payout": "04:00"
           },
           {
-            "Name": "Siege ΞΧΙLΞ",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/217637114/>",
-            "UTC": "23:00"
+            "name": "Siege ΞΧΙLΞ",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/217637114/>",
+            "payout": "23:00"
           },
           {
-            "Name": "Skammadix",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/284998539/>",
-            "UTC": "04:00"
+            "name": "Skammadix",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/284998539/>",
+            "payout": "04:00"
           },
           {
-            "Name": "BBO",
-            "Flag": ":flag_tw:",
-            "SWGOH": "<https://swgoh.gg/p/989978258/>",
-            "UTC": "09:00"
+            "name": "BBO",
+            "emoji": ":flag_tw:",
+            "swgoh.gg": "<https://swgoh.gg/p/989978258/>",
+            "payout": "09:00"
           },
           {
-            "Name": "TheOtherSky",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/323479344/>",
-            "UTC": "22:00"
+            "name": "TheOtherSky",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/323479344/>",
+            "payout": "22:00"
           },
           {
-            "Name": "Matty Ice",
-            "Flag": ":flag_us:",
-            "SWGOH": "<https://swgoh.gg/p/889348291/>",
-            "UTC": "02:00"
+            "name": "Matty Ice",
+            "emoji": ":flag_us:",
+            "swgoh.gg": "<https://swgoh.gg/p/889348291/>",
+            "payout": "02:00"
           },
           {
-            "Name": "ATL",
-            "Flag": ":flag_es:",
-            "SWGOH": "<https://swgoh.gg/p/523592984/>",
-            "UTC": "17:00"
+            "name": "ATL",
+            "emoji": ":flag_es:",
+            "swgoh.gg": "<https://swgoh.gg/p/523592984/>",
+            "payout": "17:00"
           },
           {
             "Name": "Zordo",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/347361694/>",
-            "UTC": "14:00"
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/347361694/>",
+            "payout": "14:00"
           },
           {
-            "Name": "Rilsston",
-            "Flag": ":thumbup:",
-            "SWGOH": "<https://swgoh.gg/p/821168774/>",
-            "UTC": "18:00"
+            "name": "Rilsston",
+            "emoji": ":thumbup:",
+            "swgoh.gg": "<https://swgoh.gg/p/821168774/>",
+            "payout": "18:00"
           },
           {
-            "Name": "JabeL",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/837145529/>",
-            "UTC": "13:00"
+            "name": "JabeL",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/837145529/>",
+            "payout": "13:00"
           },
           {
-            "Name": "Sregor",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/581598691/>",
-            "UTC": "03:00"
+            "name": "Sregor",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/581598691/>",
+            "payout": "03:00"
           },
           {
-            "Name": "Biggs",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/315679754/>",
-            "UTC": "02:00"
+            "name": "Biggs",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/315679754/>",
+            "payout": "02:00"
           },
           {
-            "Name": "Luuluman",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/192883829/>",
-            "UTC": "20:00"
+            "name": "Luuluman",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/192883829/>",
+            "payout": "20:00"
           },
           {
-            "Name": "Jaxx",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/129733245/>",
-            "UTC": "19:00"
+            "name": "Jaxx",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/129733245/>",
+            "payout": "19:00"
           },
           {
-            "Name": "Tommy D",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/635287796/>",
-            "UTC": "00:00"
+            "name": "Tommy D",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/635287796/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Fel Idine",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/237752889/>",
-            "UTC": "02:00"
+            "name": "Fel Idine",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/237752889/>",
+            "payout": "02:00"
           },
           {
-            "Name": "Razorbl8t",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/176464164/>",
-            "UTC": "19:00"
+            "name": "Razorbl8t",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/176464164/>",
+            "payout": "19:00"
           },
           {
-            "Name": "Laakr Maj",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/977251853/>",
-            "UTC": "03:00"
+            "name": "Laakr Maj",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/977251853/>",
+            "payout": "03:00"
           },
           {
-            "Name": "JansonJanson",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/257829715/>",
-            "UTC": "19:00"
+            "name": "JansonJanson",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/257829715/>",
+            "payout": "19:00"
           },
           {
-            "Name": "Rockin Randall",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/425496446/>",
-            "UTC": "02:00"
+            "name": "Rockin Randall",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/425496446/>",
+            "payout": "02:00"
           },
           {
-            "Name": "Victoriuous",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/726983416/>",
-            "UTC": "16:00"
+            "name": "Victoriuous",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/726983416/>",
+            "payout": "16:00"
           },
           {
-            "Name": "Tangmon the Blue",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/842745792/>",
-            "UTC": "23:00"
+            "name": "Tangmon the Blue",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/842745792/>",
+            "payout": "23:00"
           },
           {
-            "Name": "Micro",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/879256118/>",
-            "UTC": "16:00"
+            "name": "Micro",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/879256118/>",
+            "payout": "16:00"
           },
           {
-            "Name": "Jj",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/556789191/>",
-            "UTC": "00:00"
+            "name": "Jj",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/556789191/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Bricktop",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/334432676/>",
-            "UTC": "18:00"
+            "name": "Bricktop",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/334432676/>",
+            "payout": "18:00"
           },
           {
-            "Name": "Eckle Merasska",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/327359774/>",
-            "UTC": "11:00"
+            "name": "Eckle Merasska",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/327359774/>",
+            "payout": "11:00"
           },
           {
-            "Name": "BespinLando",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/463745981/>",
-            "UTC": "19:00"
+            "name": "BespinLando",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/463745981/>",
+            "payout": "19:00"
           },
           {
-            "Name": "Probowler21 Slug",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/557256472/>",
-            "UTC": "00:00"
+            "name": "Probowler21 Slug",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/557256472/>",
+            "payout": "00:00"
           },
           {
-            "Name": "BOBAFTT",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/793668628/>",
-            "UTC": "16:00"
+            "name": "BOBAFTT",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/793668628/>",
+            "payout": "16:00"
           },
           {
-            "Name": "крыса",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/883379993/>",
-            "UTC": "16:00"
+            "name": "крыса",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/883379993/>",
+            "payout": "16:00"
           },
           {
-            "Name": "Jor",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/574667815/>",
-            "UTC": "00:00"
+            "name": "Jor",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/574667815/>",
+            "payout": "00:00"
           },
           {
-            "Name": "R3dr4ck0bad90",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/921726161/>",
-            "UTC": "22:00"
+            "name": "R3dr4ck0bad90",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/921726161/>",
+            "payout": "22:00"
           },
           {
-            "Name": "Nomis Sabsuc",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/541153328/>",
-            "UTC": "00:00"
+            "name": "Nomis Sabsuc",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/541153328/>",
+            "payout": "00:00"
           },
           {
-            "Name": "Ax F4H",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/984467423/>",
-            "UTC": "18:00"
+            "name": "Ax F4H",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/984467423/>",
+            "payout": "18:00"
           },
           {
-            "Name": "Jaro",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/394187153/>",
-            "UTC": "17:00"
+            "name": "Jaro",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/394187153/>",
+            "payout": "17:00"
           },
           {
-            "Name": "The reach",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/845619852/>",
-            "UTC": "19:00"
+            "name": "The reach",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/845619852/>",
+            "payout": "19:00"
           },
           {
-            "Name": "KingOfTheNorth",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/894953951/>",
-            "UTC": "00:00"
+            "name": "KingOfTheNorth",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/894953951/>",
+            "payout": "00:00"
           },
           {
-            "Name": "DarthGalis",
-            "Flag": ":knife:",
-            "SWGOH": "<https://swgoh.gg/p/682425246/>",
-            "UTC": "12:00"
+            "name": "DarthGalis",
+            "emoji": ":knife:",
+            "swgoh.gg": "<https://swgoh.gg/p/682425246/>",
+            "payout": "12:00"
           }
         ]
